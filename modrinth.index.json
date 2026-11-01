@@ -1,0 +1,26 @@
+{
+  "formatVersion": 1,
+  "game": "minecraft",
+  "versionId": "stalker-1.0.0",
+  "name": "STalker",
+  "summary": "STalker modpack",
+  "authors": [
+    "Frog-glitch1"
+  ],
+  "icon": "",
+  "dependencies": {
+    "minecraft": "1.20.1"
+  },
+  "files": [
+    {
+      "path": "the-stalker-mod.zip",
+      "downloads": [
+        "https://github.com/Frog-glitch1/STalker/raw/main/the-stalker-mod.zip"
+      ],
+      "fileSize": 29034,
+      "hashes": {
+        "sha1": "2f047f4ce0342538b77d3c2b73eb37f5b4b044ab"
+      }
+    }
+  ]
+}
